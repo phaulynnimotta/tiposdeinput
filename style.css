@@ -1,0 +1,26 @@
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+    
+}
+
+input,
+label {
+    margin: 0.4srem 0;
+   
+}
+body{
+    margin: 1px 1px 1px 450px;
+    background-color: rgb(249, 208, 250)
+    
+};
+body{
+   display: flex;
+   align-items: center;
+   margin: color;
+}
+h1{
+    align-items: center;
+}
+table{color: #013131;
+}
